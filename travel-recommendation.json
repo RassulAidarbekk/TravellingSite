@@ -1,0 +1,16 @@
+{"countries":[
+{"id":1,"name":"Australia","cities":[
+{"name":"Sydney, Australia","imageUrl":"images/sydney.jpg","description":"A vibrant harbour city known for its Opera House and beaches."},
+{"name":"Melbourne, Australia","imageUrl":"images/melbourne.jpg","description":"A cultural capital with laneway cafes, art and sport."}]},
+{"id":2,"name":"Japan","cities":[
+{"name":"Tokyo, Japan","imageUrl":"images/tokyo.jpg","description":"A busy metropolis mixing neon towers with quiet shrines."},
+{"name":"Kyoto, Japan","imageUrl":"images/kyoto.jpg","description":"Former capital famed for temples, gardens and tea houses."}]},
+{"id":3,"name":"Brazil","cities":[
+{"name":"Rio de Janeiro, Brazil","imageUrl":"images/rio.jpg","description":"Famous for Copacabana, Carnival and Sugarloaf Mountain."},
+{"name":"Sao Paulo, Brazil","imageUrl":"images/sao-paulo.jpg","description":"A huge city with world-class food and museums."}]}],
+"temples":[
+{"id":1,"name":"Angkor Wat, Cambodia","imageUrl":"images/angkor-wat.jpg","description":"A huge 12th-century temple complex and UNESCO site."},
+{"id":2,"name":"Taj Mahal, India","imageUrl":"images/taj-mahal.jpg","description":"A white marble mausoleum on the banks of the Yamuna river."}],
+"beaches":[
+{"id":1,"name":"Bora Bora, French Polynesia","imageUrl":"images/bora-bora.jpg","description":"Turquoise lagoons and overwater bungalows."},
+{"id":2,"name":"Copacabana Beach, Brazil","imageUrl":"images/copacabana.jpg","description":"A lively four-kilometre beach in Rio de Janeiro."}]}
